@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1627757889 source:c:\users\ajeet singh\desktop\my repo activty\embeddedc\activity2.c
+	<avr/io.h>
+	"ACTIVITY2.h"
+
+1627758171 c:\users\ajeet singh\desktop\my repo activty\embeddedc\activity2.h
+
+1627757949 source:c:\users\ajeet singh\desktop\my repo activty\embeddedc\activity3.c
+	<avr/io.h>
+	<util/delay.h>
+	"ACTIVITY3.h"
+
+1627758222 c:\users\ajeet singh\desktop\my repo activty\embeddedc\activity3.h
+
+1627757478 source:c:\users\ajeet singh\desktop\my repo activty\embeddedc\fuse.c
+	<avr/io.h>
+
+1627758386 source:c:\users\ajeet singh\desktop\my repo activty\embeddedc\main.c
+	<avr/io.h>
+	"ACTIVITY1.h"
+	"ACTIVITY2.h"
+	"ACTIVITY3.h"
+	"ACTIVITY4.h"
+
+1627758115 c:\users\ajeet singh\desktop\my repo activty\embeddedc\activity1.h
+
+1627758264 c:\users\ajeet singh\desktop\my repo activty\embeddedc\activity4.h
+
+1627758766 source:c:\users\ajeet singh\desktop\my repo activty\embeddedc\activity1.c
+	<avr/io.h>
+	"ACTIVITY1.h"
+
